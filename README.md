@@ -13,9 +13,9 @@ Software developer and game programmer based in **Montreal**, working across **g
 - [**thyroid-cytology-classification**](https://github.com/baharjhn/thyroid-cytology-classification): benign/malignant classification of thyroid FNA cytology images. Built a 328-image dataset from a cytopathology atlas and fine-tuned a pretrained GoogLeNet with augmentation. PyTorch.
 
 ### Tech I work with
-**Languages:** C#, Python, C++, Java, SQL, JavaScript
-**Game dev & XR:** Unity, editor tooling, Wwise, Articy, Vuforia, Unreal (familiar)
-**ML:** PyTorch, TensorFlow/Keras, PyTorch Lightning, scikit-learn, OpenCV, Hugging Face, MONAI, SHAP
+- **Languages:** C#, Python, C++, Java, SQL, JavaScript
+- **Game dev & XR:** Unity, editor tooling, Wwise, Articy, Vuforia, Unreal (familiar)
+- **ML:** PyTorch, TensorFlow/Keras, PyTorch Lightning, scikit-learn, OpenCV, Hugging Face, MONAI, SHAP
 
 ### Currently looking for
 Gameplay / tools / XR programming, graphics and engine roles, and applied AI / computer vision engineering, in Montreal or remote in Canada.

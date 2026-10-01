@@ -13,7 +13,9 @@ Software developer and game programmer based in **Montreal**, working across **g
 
 ### Tech I work with
 **Languages:** C#, Python, C++, Java, SQL, JavaScript
+
 **Game dev & XR:** Unity, editor tooling, Wwise, Articy, Vuforia, Unreal (familiar)
+
 **ML:** PyTorch, TensorFlow/Keras, PyTorch Lightning, scikit-learn, OpenCV, Hugging Face, MONAI, SHAP
 
 ### Currently looking for
